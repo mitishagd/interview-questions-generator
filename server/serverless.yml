@@ -1,5 +1,15 @@
 service: interview-question-generator
 
+build:
+  esbuild:
+    bundle: true
+    minify: false
+    platform: node
+    target: node20
+    external:
+      - '@google/generative-ai'
+      - groq-sdk
+
 provider:
   name: aws
   runtime: nodejs20.x
