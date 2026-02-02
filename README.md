@@ -9,13 +9,6 @@ https://github.com/user-attachments/assets/demo.mov
 > *Note: If the video above doesn't play, please view it at [assets/demo.mov](assets/demo.mov)*
 
 
-## Demo
-
-https://github.com/user-attachments/assets/video.mp4
-
-> *Replace the link above with your hosted video URL or relative path if stored in the repo.*
-
-
 ## Features
 
 -   **Resume Analysis**: Extracts context from pasted resume text.
